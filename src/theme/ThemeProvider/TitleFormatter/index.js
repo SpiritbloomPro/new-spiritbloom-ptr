@@ -6,7 +6,6 @@ const formatter = (params) => {
     "restoration-shaman": 'Shaman',
     "preservation": 'Evoker',
     "holy-paladin": 'Paladin',
-    "holy-priest": 'Priest',
     "general": 'General Healing',
     "default": 'Spiritbloom.Pro'
   };

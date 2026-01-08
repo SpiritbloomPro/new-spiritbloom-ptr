@@ -14,10 +14,6 @@ const imageMap = {
         'image': 'restoration-shaman-content-hero.png',
         'title': 'Restoration Shaman'
     },
-    'holy-priest': {
-        'image': 'holy-priest-content-hero.png',
-        'title': 'Holy Priest'
-    },
     'general' : {
         'image': 'home-hero.jpg',
         'title': 'General Healing'

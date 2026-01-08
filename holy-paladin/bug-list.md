@@ -28,7 +28,7 @@ Healing storage is calculated before mastery. A 150k heal with 50% mastery only 
 
 Effective healing to healing absorb shields does not count towards your next !Holy Shock!
 
-- !Suns Avatar!
+- !Sun's Avatar!
 
 Beams and healing can sometimes continue after !Dawnlight! expires.
 

@@ -120,19 +120,6 @@ const config = {
           require('./src/plugins/wowhead-talent-calc.js')
         ]
       }
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'holy-priest',
-        path: 'holy-priest',
-        routeBasePath: 'holy-priest',
-        sidebarPath: './sidebars.js',
-        remarkPlugins: [
-          require('./src/plugins/replace-wowhead-links.js'),
-          require('./src/plugins/wowhead-talent-calc.js')
-        ]
-      }
     ]
   ],
 
@@ -184,12 +171,6 @@ const config = {
             label: 'Restoration Shaman',
             position: 'right',
             className: 'navbar-restoration-shaman'
-          },
-          {
-            to: '/holy-priest',
-            label: 'Holy Priest',
-            position: 'right',
-            className: 'navbar-holy-priest'
           },
           {
             to: '/blog',
