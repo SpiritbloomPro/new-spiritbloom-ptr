@@ -1,7 +1,6 @@
 import EvokerSpells from '@site/static/spells/evoker.json';
 import PaladinSpells from '@site/static/spells/paladin.json';
 import ShamanSpells from '@site/static/spells/shaman.json';
-import PriestSpells from '@site/static/spells/priest.json';
 import OtherSpells from '@site/static/spells/other.json';
 
 var fullSpellList = {};
@@ -16,7 +15,6 @@ const spellLists = [
     EvokerSpells,
     PaladinSpells,
     ShamanSpells,
-    PriestSpells,
     OtherSpells
 ];
 

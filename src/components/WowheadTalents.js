@@ -3,8 +3,7 @@ export default function WowheadTalents({ spec, hero, string }) {
     const specList = {
         Evoker: 'evoker/preservation',
         Shaman: 'shaman/restoration',
-        Paladin: 'paladin/holy',
-        Priest: 'priest/holy'
+        Paladin: 'paladin/holy'
     };
 
     const heroTalentList = {
@@ -13,9 +12,7 @@ export default function WowheadTalents({ spec, hero, string }) {
         Herald: 'herald-of-the-sun',
         Lightsmith: 'lightsmith',
         Farseer: 'farseer',
-        Totemic: 'totemic',
-        Archon: 'archon',
-        Oracle: 'oracle'
+        Totemic: 'totemic'
     };
 
     const wowheadVersion = 'beta'; //Loading special versions of the wowhead site. Default = 'www'

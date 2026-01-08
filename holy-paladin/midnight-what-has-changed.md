@@ -53,7 +53,7 @@ Of Dusk and Dawn
 
 Worth noting is that a shield provides more passive damage reduction against physical damage than 15% parry chance, so this talent only locks us further in to wearing 1-hander plus shield.
 
-!Brought to Light! and !Fear no Evil! are two confuddling talents that are both very bad and you won't have to worry about them in any capacity.
+!Brought to Light! and !Fear No Evil! are two confuddling talents that are both very bad and you won't have to worry about them in any capacity.
 
 ## Herald of the Sun
 
