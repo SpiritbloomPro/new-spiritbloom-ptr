@@ -82,7 +82,7 @@ Removed with it was also a support talent of !Red Hot! which just gave it a 2nd 
 
 ### Reworked
 
-To start with, !Engulf! was replaced with !Legacy of the Lifebinder! a fitting name.  This talent gives both our !Fire breath! and more importantly our !Dream Breath! 2 charges.  I cannot emphasize how insanely good this is.  Having an additional charge of both these spells, along with a few class tree changes we will get into later makes this spell already so much stronger than it already was. We will now instead be focusing ourselves heavily around !Dream Breath! instead of !Engulf! making for a much more healthy, and more importantly, tune-able knob. 
+To start with, !Engulf! was replaced with !Legacy of the Lifebinder! a fitting name.  This talent gives both our !Fire breath! and more importantly our !Dream Breath! 2 charges.  I cannot emphasize how insanely good this is.  Having an additional charge of both these spells, along with a few class tree changes we will get into later makes this spell already so much stronger than it already was. We will now instead be focusing ourselves heavily around !Dream Breath! instead of !Engulf! making for a much more healthy, and more importantly, tune-able knob.
 
 Just below that we have !Ashes in Motion!, nothing too crazy just a small amount of cooldown reduction on our !Fire breath!.
 
@@ -92,7 +92,7 @@ One last tick down we see !Deep Exhalation!, an increase to our HoT and DoT port
 
 Last Item we see a change in is !Lifecinders!. With !Renewing Blaze! now being attached to !Obsidian Scales! they changes !Lifecinders! to now provide !Obsidian Scales! to our target at a 50% effectivness. Yes you read that right we can now share our personal with other people. This also gives the passive !Renewing Blaze! to the target as well making for an absolutely insane external and talent. 15% DR and 50% healback of all damage for 12 seconds.
 
-Added
+### Added
 
 As is with Chronowarden and all other hero trees, Flameshaper see's 3 NEW talents.
 
@@ -101,3 +101,7 @@ Starting from the top we have !Essence Well!, this gives all casts of our !Dream
 Just below that we also gain a support talent for !Essence Burst! with !Twin Flame!. This makes it so when we spend our !Essence Burst! it heals that target for quite a fair amount. This sadly currently does not work with !Disintegrate!, we hope to see this changed.
 
 Lastly we have an upgrade talent for !Twin Flame!, !Fire Torrent!, this just makes !Twin flame! bounce an additional 2 times. On beta this looks to target damaged allies and is actually extremely powerful in the new healer environment.
+
+Final Notes
+
+I'm very pleased with the Flameshaper changes.
