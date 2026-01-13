@@ -43,7 +43,7 @@ Overall the biggest positive to the new Class tree is the 4 new talent points, t
 Chronowarden
 ![](/img/evoker/Chronowarden.webp)
 
-Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!s.
+Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!'s.
 
 ### Removed
 
@@ -56,3 +56,13 @@ With the Removal of !Spiritbloom!, !Reverberations! and !Primacy! both see the s
 Just below that we see !Golden Opportunity! get changed from an RNG buff to a multiplicative increase to our !echo!'s value.  This works with both our hard casted !echo!'s and our !echo!'s from !Resonating Sphere!. Small but good.
 
 Added
+
+The most important talent in the tree was just added called !Nozdormu Adept!. This talent reduces the cooldown of !Temporal Anomaly! by 4 seconds flat, and reduces its mana cost by 15%. This is an absurdly strong talent that allows our ramps in raid to go wider and the amount of spells we can echo in M+ much more frequent.  Not only that, but !Temporal Anomaly! by itself is already a very solid shield, and more casts of it is just more shielding on the raid as the shielding of !Temporal Anomaly! can stack up to 3 times.
+
+Along with this we see the addition of !Chronoboom!, a 30 second Reduction to our !Tip the Scales! Cooldown. nothing too crazy to say here, more uptime on !Temporal Burst! is always good.
+
+Just below that we have !Energy Cycles! simply giving us an !Essence Burst! every 6 seconds while in !Temporal Burst!. More !echo! more !Emerald Blossom! casts are always good.
+
+Lastly we get !Overclock!. This is a very weak increase to the cap that which Chronoflame repeats in damage and healing. 
+
+Final Notes
