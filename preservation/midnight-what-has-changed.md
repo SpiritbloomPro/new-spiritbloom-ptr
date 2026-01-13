@@ -120,4 +120,14 @@ Removed
 
 Lets rip the band aid off early.  Our Beloved !Spiritbloom! has been removed. !Spiritbloom! was a staple to dungeon gameplay and evoker in the past, its moved more towards backup button recently, but it always found a way to just fall behind in raid, unfortunately becoming !Lifebind! Fodder.  However, with the change to !Lifebind! the removal of !Spiritbloom! is a double hitter to M+ and honestly just the identity of Preservation.  It also leaves a very big gap in Chronowarden's gameplay.
 
-Another Iconic spell !Emerald Communion! was also removed. Often used for !Lifebind! but also mana, !Emerald Communion!'s removal leaves a pretty strange feeling as a cooldown, a personal, and a way to help our mana economy.
+Another Iconic spell !Emerald Communion! was also removed. Often used for !Lifebind! but also mana, !Emerald Communion!'s removal leaves a pretty strange feeling as a cooldown, a personal, and a way to help our worsening mana economy. Along with !Emerald Communion! all of its supporting talents also have been removed.
+
+The only other talent that was removed was !Cycle of Life!. This change Eliminates a talent that essentially has been holding back !Emerald Blossom! from being a good spell on its own. Historically Preservation has been either all in !Emerald Blossom! or all in !echo!.  This allows Blizzard to buff !Emerald Blossom! into being a good button, but also allowing us as players to not be forced into all inning the spell.  Along with this they added !Twin Echo!'s which we will talk about in just a second! 
+
+Reworked
+
+On the topic of !Emerald Blossom! we will start with !Field of Dreams!. This was reworked to take away the RNG aspect of the talent and make it a guarentee'd Proc every other !Emerald Blossom! cast. This massively increased quality of life for this talent, and with the very large !Emerald Blossom! buffs it's a VERY good pick.
+
+Another very noteable rework was for !Lifebind!. !Lifebind! Healing and duration where increased quite significantly, however !Lifebind! can no longer be spread through !Echo!.  This by itself and the !Spiritbloom! removal could be a video topic on its own. Blizzard is really bringing down the level of instant burst the spec can do. This has some major consequences on Dungeon Content however, as !Lifebind! has been the bread and butter of how we historically push health bars in that content. This change however was needed from a raiding perspective, as !Lifebind! has been extremely oppressive and bursty in recent tiers, things Blizzard does not want.
+
+Yet another major rework comes from !Empath! and !Spiritual Clarity!. We will start with !Empath! as its the less of the two. All empower spells now give us the buff, instead of only the removed !Spiritbloom!. Moving onto !Spiritual Clarity!, this reduces the Cooldown of !Dream Breath! down to 20 seconds
