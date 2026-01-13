@@ -108,7 +108,4 @@ Lastly we have an upgrade talent for !Twin Flame!, !Fire Torrent!, this just mak
 
 I'm very pleased with the Flameshaper changes, the !Engulf! !Consume Flame! duo was long due for a change, and I'm very happy it will no longer dominate the spec entirely in raid.  This allows them to hopefully tune Flameshaper into a competitive spot in both raid and M+. That being said, I am a bit sad about the state of !Consume Flame!, currently on beta its less than 2% healing on most logs with me TRYING to play into it. The rest of the tree however is just a lot of solid points that gradually add to Flameshaper being a very solid tree that adds and honestly almost complete Preservation Evoker.
 
-Preservation Tree
-![](/img/evoker/Spec%20Tree.webp)
-
-Test Text
+## Preservation Tree
