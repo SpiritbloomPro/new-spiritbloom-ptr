@@ -40,8 +40,8 @@ Lastly is !Strike from Above!, a simple and small movement speed increase and he
 
 Overall the biggest positive to the new Class tree is the 4 new talent points, that has always been the biggest area of contention when it came to our tree. Often having to sacrifice group utility or throughput for the other.  I personally am very happy with our class tree, though the movement of !Regenerative Magic! makes it nearly impossible to realistically grab. It becomes especially hard if you consider it now being gated behind a 2 point damage node in !Instinctive Arcana! when healer damage is by far at an all time low.  Not only that its also gated by the heavily ignored !Protracted Talons!.
 
-Chronowarden
-![](/img/evoker/Chronowarden.webp)
+## Chronowarden
+
 
 Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!'s.
 
@@ -65,10 +65,22 @@ Just below that we have !Energy Cycles! simply giving us an !Essence Burst! ever
 
 Lastly we get !Overclock!. This is a very weak increase to the cap that which Chronoflame repeats in damage and healing.
 
-Final Notes
+### Final Notes
 
 Overall, I am quite happy with the Chronowarden changes, though I slightly worried as well.  In a raid environment it works quite well as the increase in !Temporal Anomaly! casts and the increase in strength of !echo! from !Golden Opportunity! makes your coverage much stronger. Chronowarden also allows !Verdant Embrace! to shine with !Reverberations! making it a very strong and effective heal. However, in dungeon content, with the loss of !Spiritbloom! your !Dream Breath!, !Verdant Embrace!, and !Reversion! are all very in contention with each other, and it becomes a lot easier to have that feeling of "running out" that players often struggle with on Preservation. This can sometimes lead to need to healing with !Chronoflame! which is an extremely bad feeling. Not only that, but Chronowarden has always been the "damage" tree via !Chronoflame! and !Afterimage!. With healer damage being at an all time low it feels and seems as if Chronowarden has lost a lot of it's oomph in a Dungeon setting, but we will have to see.
 
-Flameshaper
+## Flameshaper
 
 ![](/img/evoker/Flameshaper.webp)
+
+Flameshaper has seen a very large rework after the removal of !Engulf!. You will have a lot more uptime and casts of your !Dream Breath! and !Firebreath! while also massively increasing the throughput of both spells.  Along with this we see a Rework to !consume flame! and get some new bonuses added in!
+
+Removed
+
+Long gone are the days of you instantly topping your raids, !Engulf! has been culled from this world.  Initially this might turn you off to the idea of Flameshaper and make you worry about the hero tree, but I am here to say this was a need and good change on the part of Blizzard. !Engulf! heavily influenced the play of Evoker this entire expansion. From it being just 50% of our healing in season one from its extremely strong interaction with consume flame, being !Lifebind! fodder for massive hits in season 2, and being both in season 3. This spell overtook Preservation and we relied on it so heavily in raid that it was impossible to make useful in a dungeon environment without it massively buffing raid.  The removal of !Engulf! was needed for the health of the game and the health of Preservation.
+
+Removed with it was also a support talent of !Red Hot! which just gave it a 2nd charge, nothing crazy.
+
+Reworked
+
+To start with, !Engulf! was replaced with !Legacy of the Lifebinder! a fitting name.  This talent gives both our !Firebreath! and more importantly our !Dream Breath! 2 charges.
