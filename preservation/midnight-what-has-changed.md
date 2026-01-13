@@ -88,7 +88,9 @@ Just below that we have !Ashes in Motion!, nothing too crazy just a small amount
 
 Another step down we have !Burning Adrenaline!, another simple talent that allows us to cast our !Dream Breath! and !Fire Breath! faster. This has some negative side affects via !Dream Breath!, currently upranking your !Dream Breath! doesnt take in the increases of the hot healing from !Expanded Lungs! and !Fulminous Roar!, making you lose out on a large amount of !Dream Breath! healing. We hope to see this fixed soon!
 
-One last tick down we see !Deep Exhalation!, an increase to our HoT and DoT portions of our !Fire Breath! and our !Dream Breath!.  More healing, more damage, more uptime. All around good.
+One more tick down we see !Deep Exhalation!, an increase to our HoT and DoT portions of our !Fire Breath! and our !Dream Breath!.  More healing, more damage, more uptime. All around good.
+
+Down to our capstone we see !Consume Flame! get a rework on the spells it works with and the amounts they consume. !Verdant Embrace! consumes 4 seconds for a 200% explosion per target hit with !Dream Breath!, while !Emerald Blossom! consumes 2 seconds with a 200% explosion per target hit with !Dream Breath!. Most notable **THIS IS NO LONGER SPLASH AOE HEALING**. Having !Consume Flame! happen is Single Target heal on that person that got hit with either !Verdant Embrace! or !Emerald Blossom! if they have !Dream Breath!.  This fundamentally changes how Flameshaper is required to play. Sadly however, currently !Consume Flame! looks to be extremely weak and not played around at all in raid, and in M+ you can do some neat things with !Verdant Embrace! but it requires a lot of setup.  A large nerf needed to happen, but currently !Consume Flame! is a shell of its former self.
 
 Last Item we see a change in is !Lifecinders!. With !Renewing Blaze! now being attached to !Obsidian Scales! they changes !Lifecinders! to now provide !Obsidian Scales! to our target at a 50% effectivness. Yes you read that right we can now share our personal with other people. This also gives the passive !Renewing Blaze! to the target as well making for an absolutely insane external and talent. 15% DR and 50% healback of all damage for 12 seconds.
 
@@ -102,6 +104,11 @@ Just below that we also gain a support talent for !Essence Burst! with !Twin Fla
 
 Lastly we have an upgrade talent for !Twin Flame!, !Fire Torrent!, this just makes !Twin flame! bounce an additional 2 times. On beta this looks to target damaged allies and is actually extremely powerful in the new healer environment.
 
-Final Notes
+### Final Notes
 
-I'm very pleased with the Flameshaper changes.
+I'm very pleased with the Flameshaper changes, the !Engulf! !Consume Flame! duo was long due for a change, and I'm very happy it will no longer dominate the spec entirely in raid.  This allows them to hopefully tune Flameshaper into a competitive spot in both raid and M+. That being said, I am a bit sad about the state of !Consume Flame!, currently on beta its less than 2% healing on most logs with me TRYING to play into it. The rest of the tree however is just a lot of solid points that gradually add to Flameshaper being a very solid tree that adds and honestly almost complete Preservation Evoker.
+
+Preservation Tree
+![](/img/evoker/Spec%20Tree.webp)
+
+Test Text
