@@ -55,7 +55,7 @@ With the Removal of !Spiritbloom!, !Reverberations! and !Primacy! both see the s
 
 Just below that we see !Golden Opportunity! get changed from an RNG buff to a multiplicative increase to our !echo!'s value.  This works with both our hard casted !echo!'s and our !echo!'s from !Resonating Sphere!. Small but good.
 
-Added
+### Added
 
 The most important talent in the tree was just added called !Nozdormu Adept!. This talent reduces the cooldown of !Temporal Anomaly! by 4 seconds flat, and reduces its mana cost by 15%. This is an absurdly strong talent that allows our ramps in raid to go wider and the amount of spells we can echo in M+ much more frequent.  Not only that, but !Temporal Anomaly! by itself is already a very solid shield, and more casts of it is just more shielding on the raid as the shielding of !Temporal Anomaly! can stack up to 3 times.
 
@@ -63,6 +63,12 @@ Along with this we see the addition of !Chronoboom!, a 30 second Reduction to ou
 
 Just below that we have !Energy Cycles! simply giving us an !Essence Burst! every 6 seconds while in !Temporal Burst!. More !echo! more !Emerald Blossom! casts are always good.
 
-Lastly we get !Overclock!. This is a very weak increase to the cap that which Chronoflame repeats in damage and healing. 
+Lastly we get !Overclock!. This is a very weak increase to the cap that which Chronoflame repeats in damage and healing.
 
 Final Notes
+
+Overall, I am quite happy with the Chronowarden changes, though I slightly worried as well.  In a raid environment it works quite well as the increase in !Temporal Anomaly! casts and the increase in strength of !echo! from !Golden Opportunity! makes your coverage much stronger. Chronowarden also allows !Verdant Embrace! to shine with !Reverberations! making it a very strong and effective heal. However, in dungeon content, with the loss of !Spiritbloom! your !Dream Breath!, !Verdant Embrace!, and !Reversion! are all very in contention with each other, and it becomes a lot easier to have that feeling of "running out" that players often struggle with on Preservation. This can sometimes lead to need to healing with !Chronoflame! which is an extremely bad feeling. Not only that, but Chronowarden has always been the "damage" tree via !Chronoflame! and !Afterimage!. With healer damage being at an all time low it feels and seems as if Chronowarden has lost a lot of it's oomph in a Dungeon setting, but we will have to see.
+
+Flameshaper
+
+![](/img/evoker/Flameshaper.webp)
