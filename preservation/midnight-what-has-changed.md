@@ -45,10 +45,14 @@ Chronowarden
 
 Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!s.
 
-Removed
+### Removed
 
 !Threads of Fate! and its support talent !Instability Matrix! both have been removed entirely. Not much to note here, passive talents that had very little impact at any level of content or type of content.
 
-Reworked
+### Reworked
 
-With the Removal of !Spiritbloom!, !Reverberations! and !Primacy! both see the spell the are attached to moved to !Verdant Embrace!
+With the Removal of !Spiritbloom!, !Reverberations! and !Primacy! both see the spell they are attached to moved to !Verdant Embrace!, along with this !Reverberations! healing is massively increased and !Primacy! see's its buffed duration increased to 15 seconds.  With these changes it's very easy to see high uptime on 9% haste from this combo which is extremely strong and gives Chronowarden some feet to stand on.
+
+Just below that we see !Golden Opportunity! get changed from an RNG buff to a multiplicative increase to our !echo!'s value.  This works with both our hard casted !echo!'s and our !echo!'s from !Resonating Sphere!. Small but good.
+
+Added
