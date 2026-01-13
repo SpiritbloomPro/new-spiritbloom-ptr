@@ -39,3 +39,16 @@ Lastly is !Strike from Above!, a simple and small movement speed increase and he
 ### Final Notes
 
 Overall the biggest positive to the new Class tree is the 4 new talent points, that has always been the biggest area of contention when it came to our tree. Often having to sacrifice group utility or throughput for the other.  I personally am very happy with our class tree, though the movement of !Regenerative Magic! makes it nearly impossible to realistically grab. It becomes especially hard if you consider it now being gated behind a 2 point damage node in !Instinctive Arcana! when healer damage is by far at an all time low.  Not only that its also gated by the heavily ignored !Protracted Talons!.
+
+Chronowarden
+![](/img/evoker/Chronowarden.webp)
+
+Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!s.
+
+Removed
+
+!Threads of Fate! and its support talent !Instability Matrix! both have been removed entirely. Not much to note here, passive talents that had very little impact at any level of content or type of content.
+
+Reworked
+
+With the Removal of !Spiritbloom!, !Reverberations! and !Primacy! both see the spell the are attached to moved to !Verdant Embrace!
