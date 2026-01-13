@@ -42,7 +42,6 @@ Overall the biggest positive to the new Class tree is the 4 new talent points, t
 
 ## Chronowarden
 
-
 Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!'s.
 
 ### Removed
@@ -73,14 +72,32 @@ Overall, I am quite happy with the Chronowarden changes, though I slightly worri
 
 ![](/img/evoker/Flameshaper.webp)
 
-Flameshaper has seen a very large rework after the removal of !Engulf!. You will have a lot more uptime and casts of your !Dream Breath! and !Firebreath! while also massively increasing the throughput of both spells.  Along with this we see a Rework to !consume flame! and get some new bonuses added in!
+Flameshaper has seen a very large rework after the removal of !Engulf!. You will have a lot more uptime and casts of your !Dream Breath! and !Fire breath! while also massively increasing the throughput of both spells.  Along with this we see a Rework to !consume flame! and get some new bonuses added in!
 
-Removed
+### Removed
 
 Long gone are the days of you instantly topping your raids, !Engulf! has been culled from this world.  Initially this might turn you off to the idea of Flameshaper and make you worry about the hero tree, but I am here to say this was a need and good change on the part of Blizzard. !Engulf! heavily influenced the play of Evoker this entire expansion. From it being just 50% of our healing in season one from its extremely strong interaction with consume flame, being !Lifebind! fodder for massive hits in season 2, and being both in season 3. This spell overtook Preservation and we relied on it so heavily in raid that it was impossible to make useful in a dungeon environment without it massively buffing raid.  The removal of !Engulf! was needed for the health of the game and the health of Preservation.
 
 Removed with it was also a support talent of !Red Hot! which just gave it a 2nd charge, nothing crazy.
 
-Reworked
+### Reworked
 
-To start with, !Engulf! was replaced with !Legacy of the Lifebinder! a fitting name.  This talent gives both our !Firebreath! and more importantly our !Dream Breath! 2 charges.
+To start with, !Engulf! was replaced with !Legacy of the Lifebinder! a fitting name.  This talent gives both our !Fire breath! and more importantly our !Dream Breath! 2 charges.  I cannot emphasize how insanely good this is.  Having an additional charge of both these spells, along with a few class tree changes we will get into later makes this spell already so much stronger than it already was. We will now instead be focusing ourselves heavily around !Dream Breath! instead of !Engulf! making for a much more healthy, and more importantly, tune-able knob. 
+
+Just below that we have !Ashes in Motion!, nothing too crazy just a small amount of cooldown reduction on our !Fire breath!.
+
+Another step down we have !Burning Adrenaline!, another simple talent that allows us to cast our !Dream Breath! and !Fire Breath! faster. This has some negative side affects via !Dream Breath!, currently upranking your !Dream Breath! doesnt take in the increases of the hot healing from !Expanded Lungs! and !Fulminous Roar!, making you lose out on a large amount of !Dream Breath! healing. We hope to see this fixed soon!
+
+One last tick down we see !Deep Exhalation!, an increase to our HoT and DoT portions of our !Fire Breath! and our !Dream Breath!.  More healing, more damage, more uptime. All around good.
+
+Last Item we see a change in is !Lifecinders!. With !Renewing Blaze! now being attached to !Obsidian Scales! they changes !Lifecinders! to now provide !Obsidian Scales! to our target at a 50% effectivness. Yes you read that right we can now share our personal with other people. This also gives the passive !Renewing Blaze! to the target as well making for an absolutely insane external and talent. 15% DR and 50% healback of all damage for 12 seconds.
+
+Added
+
+As is with Chronowarden and all other hero trees, Flameshaper see's 3 NEW talents.
+
+Starting from the top we have !Essence Well!, this gives all casts of our !Dream Breath! and !Fire Breath! to have a 50% chance to give us an !Essence Burst!. Meaning often you will get 2 !Essence Burst!s from your Empower casts with !Spark of Insight!.  More !Essence Burst!s are always welcome.
+
+Just below that we also gain a support talent for !Essence Burst! with !Twin Flame!. This makes it so when we spend our !Essence Burst! it heals that target for quite a fair amount. This sadly currently does not work with !Disintegrate!, we hope to see this changed.
+
+Lastly we have an upgrade talent for !Twin Flame!, !Fire Torrent!, this just makes !Twin flame! bounce an additional 2 times. On beta this looks to target damaged allies and is actually extremely powerful in the new healer environment.
