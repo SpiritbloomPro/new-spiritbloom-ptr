@@ -1,6 +1,6 @@
 ---
 title: Midnight, What Has Changed?
-description: This will be a detailed list of all the Preservation Evoker talent changes going into Midnight
+description: This will be a detailed list of all the Preservation Evoker talent changes going into Midnight.
 unlisted: false
 sidebar_position: 2
 ---
