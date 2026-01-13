@@ -18,8 +18,18 @@ With the removal of healer kicks, it comes as no surprise that we also lost !que
 
 The only other talent removed from our tree is !fire within!. This comes with a !Renewing Blaze! change that we will talk about it just below.
 
-Reworked
+### Reworked
 
-Starting with !Renewing Blaze! the overall goal of Midnight was to reduce Cooldown and personal bloat; one change Blizzard has done for evoker so far was bake our !Renewing Blaze! into our !Obsidian Scales!. This has been a very controversial change. !Renewing Blaze! was much more helpful with heavy rot, or a debuff on ourself, whereas !Obsidian Scales! was used to help survive large heavy hits.  Not only that, but !Obsidian Scales! also reduces the value of !Renewing Blaze! due to it's damage reduction.  However, we still have 2 charges so instead !Obsidian Scales! makes us EXTREMELY hard to kill in all types of content and damage patterns.
+Starting with !Renewing Blaze! the overall goal of Midnight was to reduce Cooldown and personal bloat; one change Blizzard has done for evoker so far was bake our !Renewing Blaze! into our !Obsidian Scales!. This has been a very controversial change. !Renewing Blaze! was much more helpful with heavy rot, or a debuff on ourself, whereas !Obsidian Scales! was used to help survive large heavy hits.  Not only that, but !Obsidian Scales! also reduces the value of !Renewing Blaze! due to its damage reduction.  However, we still have 2 charges so instead !Obsidian Scales! makes us EXTREMELY hard to kill in all types of content and damage patterns.
 
 To continue with the theme of changing personals and externals, !Twin Guardian! also has been reworked.  Instead of giving ourselves and our ally that we are hitting with !Rescue! a shield, !Twin Guardian! now gives a 100% movement speed buff and allows our ally and ourselves to cast while moving for 3 seconds. This acts exactly the same as !Hover! and does not work with empower casts.
+
+Finally !Unravel! is now just tied to our !Fire Breath! doing extra damage to shielding as Blizzard looks to remove button bloat.
+
+Added
+
+The most exciting time for beta is seeing what Blizzard adds to specs. Our class tree has had a few items added, but the biggest thing for us is getting the 4 extra talent points allowing us to pick up !Source of Magic!, !Zephyr!, !Time Spiral!, and !Leaping Flames! all at the same time!
+
+Firstly added was !Inner Radiance!, replacing !Quell!. This is a Dev and Aug class specific talent that has been moved to the class tree. Simply just makes our !living flame! and more importantly !Emerald Blossom! healing on ourselves a bit stronger!  With potentially seeing much more !Emerald Blossom! healing with our season 1 midnight tierset and talent integration this could shape out to be a pretty solid talent. 
+
+Strangely enough we also got another defensive option that comes from the Aug Spec tree in !Stretch Time!. This makes our !Deep Breath! essentially give us a 100% TD while flying. It's important to note that this only works with !Deep Breath! and not !Dreamflight!. This also has an HP cap as well, so if we take well above your HP pool in damage, instead of staggering the damage, we will instantly die.
