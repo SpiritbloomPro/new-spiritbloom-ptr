@@ -26,10 +26,18 @@ To continue with the theme of changing personals and externals, !Twin Guardian! 
 
 Finally !Unravel! is now just tied to our !Fire Breath! doing extra damage to shielding as Blizzard looks to remove button bloat.
 
-Added
+### Added
 
 The most exciting time for beta is seeing what Blizzard adds to specs. Our class tree has had a few items added, but the biggest thing for us is getting the 4 extra talent points allowing us to pick up !Source of Magic!, !Zephyr!, !Time Spiral!, and !Leaping Flames! all at the same time!
 
-Firstly added was !Inner Radiance!, replacing !Quell!. This is a Dev and Aug class specific talent that has been moved to the class tree. Simply just makes our !living flame! and more importantly !Emerald Blossom! healing on ourselves a bit stronger!  With potentially seeing much more !Emerald Blossom! healing with our season 1 midnight tierset and talent integration this could shape out to be a pretty solid talent. 
+Firstly added was !Inner Radiance!, replacing !Quell!. This is a Dev and Aug class specific talent that has been moved to the class tree. Simply just makes our !living flame! and more importantly !Emerald Blossom! healing on ourselves a bit stronger!  With potentially seeing much more !Emerald Blossom! healing with our season 1 midnight tierset and talent integration this could shape out to be a pretty solid talent.
 
 Strangely enough we also got another defensive option that comes from the Aug Spec tree in !Stretch Time!. This makes our !Deep Breath! essentially give us a 100% TD while flying. It's important to note that this only works with !Deep Breath! and not !Dreamflight!. This also has an HP cap as well, so if we take well above your HP pool in damage, instead of staggering the damage, we will instantly die.
+
+Lastly is !Strike from Above!, a simple and small movement speed increase and height to glide. This talent was heavily nerfed in beta making it pretty much a nothingburger. 
+
+Final Notes
+
+Overall the biggest positive to the new Class tree is the 4 new talent points, that has always been the biggest area of contention when it came to our tree. Often having to sacrifice group utility or throughput for the other.  I personally am very happy with our class tree, though the movement of !Regenerative Magic! makes it nearly impossible to realistically grab. It becomes especially hard if you consider it now being gated behind a 2 point damage node in !Instinctive Arcana! when healer damage is by far at an all time low.  Not only that its also gated by the heavily ignored !Protracted Talons!. 
+
+asdf
