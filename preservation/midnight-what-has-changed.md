@@ -41,6 +41,7 @@ Lastly is !Strike from Above!, a simple and small movement speed increase and he
 Overall the biggest positive to the new Class tree is the 4 new talent points, that has always been the biggest area of contention when it came to our tree. Often having to sacrifice group utility or throughput for the other.  I personally am very happy with our class tree, though the movement of !Regenerative Magic! makes it nearly impossible to realistically grab. It becomes especially hard if you consider it now being gated behind a 2 point damage node in !Instinctive Arcana! when healer damage is by far at an all time low.  Not only that its also gated by the heavily ignored !Protracted Talons!.
 
 ## Chronowarden
+
 ![](/img/evoker/Chronowarden.webp)
 
 Chronowarden has seen a pretty large shift since the removal of !Spiritbloom!. It lands in a much more focus into more !Temporal Anomaly! casts, Stronger !Echo!s and many more !Essence Burst!'s.
@@ -110,6 +111,13 @@ Lastly we have an upgrade talent for !Twin Flame!, !Fire Torrent!, this just mak
 I'm very pleased with the Flameshaper changes, the !Engulf! !Consume Flame! duo was long due for a change, and I'm very happy it will no longer dominate the spec entirely in raid.  This allows them to hopefully tune Flameshaper into a competitive spot in both raid and M+. That being said, I am a bit sad about the state of !Consume Flame!, currently on beta its less than 2% healing on most logs with me TRYING to play into it. The rest of the tree however is just a lot of solid points that gradually add to Flameshaper being a very solid tree that adds and honestly almost complete Preservation Evoker.
 
 ## Preservation Tree
+
 ![](/img/evoker/Spec%20Tree.webp)
 
-This is TEST TEXT
+Buckle up, cause this is about to get spicy. Preservation Recieved a fair amount of changes with its Spec tree.  We see the addition of our extremely powerful apex talent, reworks to other talents to strip frustration away from gameplay, and intergration talents to help us utilize our entire kit.  Unfortunately we also lose some of most beloved spells, and our Cooldowns become a choice.
+
+Removed
+
+Lets rip the band aid off early.  Our Beloved !Spiritbloom! has been removed. !Spiritbloom! was a staple to dungeon gameplay and evoker in the past, its moved more towards backup button recently, but it always found a way to just fall behind in raid, unfortunately becoming !Lifebind! Fodder.  However, with the change to !Lifebind! the removal of !Spiritbloom! is a double hitter to M+ and honestly just the identity of Preservation.  It also leaves a very big gap in Chronowarden's gameplay.
+
+Another Iconic spell !Emerald Communion! was also removed. Often used for !Lifebind! but also mana, !Emerald Communion!'s removal leaves a pretty strange feeling as a cooldown, a personal, and a way to help our mana economy.
