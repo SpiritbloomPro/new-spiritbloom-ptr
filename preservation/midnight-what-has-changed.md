@@ -122,7 +122,7 @@ Lets rip the band aid off early.  Our Beloved !Spiritbloom! has been removed. !S
 
 Another Iconic spell !Emerald Communion! was also removed. Often used for !Lifebind! but also mana, !Emerald Communion!'s removal leaves a pretty strange feeling as a cooldown, a personal, and a way to help our worsening mana economy. Along with !Emerald Communion! all of its supporting talents also have been removed.
 
-The only other talent that was removed was !Cycle of Life!. This change Eliminates a talent that essentially has been holding back !Emerald Blossom! from being a good spell on its own. Historically Preservation has been either all in !Emerald Blossom! or all in !echo!.  This allows Blizzard to buff !Emerald Blossom! into being a good button, but also allowing us as players to not be forced into all inning the spell.  Along with this they added !Twin Echo!'s which we will talk about in just a second! 
+The only other talent that was removed was !Cycle of Life!. This change Eliminates a talent that essentially has been holding back !Emerald Blossom! from being a good spell on its own. Historically Preservation has been either all in !Emerald Blossom! or all in !echo!.  This allows Blizzard to buff !Emerald Blossom! into being a good button, but also allowing us as players to not be forced into all inning the spell.  Along with this they added !Twin Echo!'s which we will talk about in just a second!
 
 Reworked
 
@@ -130,4 +130,24 @@ On the topic of !Emerald Blossom! we will start with !Field of Dreams!. This was
 
 Another very noteable rework was for !Lifebind!. !Lifebind! Healing and duration where increased quite significantly, however !Lifebind! can no longer be spread through !Echo!.  This by itself and the !Spiritbloom! removal could be a video topic on its own. Blizzard is really bringing down the level of instant burst the spec can do. This has some major consequences on Dungeon Content however, as !Lifebind! has been the bread and butter of how we historically push health bars in that content. This change however was needed from a raiding perspective, as !Lifebind! has been extremely oppressive and bursty in recent tiers, things Blizzard does not want.
 
-Yet another major rework comes from !Empath! and !Spiritual Clarity!. We will start with !Empath! as its the less of the two. All empower spells now give us the buff, instead of only the removed !Spiritbloom!. Moving onto !Spiritual Clarity!, this reduces the Cooldown of !Dream Breath! down to 20 seconds
+Yet another major rework comes from !Empath! and !Spiritual Clarity!. We will start with !Empath! as its the less of the two. All empower spells now give us the buff, instead of only the removed !Spiritbloom!. Moving onto !Spiritual Clarity!, this reduces the Cooldown of !Dream Breath! down to 20 seconds. That alone is very good, but now remember that Flameshaper has 2 charges. No longer are you punished for holding !Dream Breath! for mechanics. This is an extremely powerful synergy that pushes Flameshaper !Dream Breath! even further ahead of Chronowarden.
+
+As for other Reworks, !Call of Ysera! is now disconnected from !Verdant Embrace! and a passive. Do note that it has been pretty significantly nerfed however. This was very good for the playstyle now that !Verdant Embrace! is trying to be a stand alone button now, not a !Lifebind! and !Call of Ysera! trigger.
+
+We are on a roll with gameplay centric changes as !Tempo Charged! was ALSO reworked. No longer are you punished for casting your !Fire Breath! on cooldown, or punished for having to cast !Dream Breath! early. !Tempo Charged! is now just a generic passive increase to bronze spells. This does not work on !Chronoflame!, !Golden Hour! or !Rewind!.
+
+Lastly for reworks, !Lifeforce Mender! no longer scales off of HP, and now is a generic increase to red spells. Much easier for testing, doesn't change the functionality of the talent.
+
+Added
+
+Our Apex talents, !Merithra's Blessing!. There is a ton to go into here i'd recommend reading the interactions page about this. Know that it's been massively nerfed many times, and it is likely still the most powerful apex in the game. 
+
+I've done a lot of talking about integration talents so let's talk about the major one, !Twin Echoes! !Twin Echoes! makes it so after every !Emerald Blossom! cast causes your next !Echo! cast will hit another target. This is smart healing and the !Echo! will choose the lowest HP target that doesn't already have an !Echo!. This with the fact that !Emerald Blossom! got massively buffed means that you can weave !Emerald Blossom! and !Echo! to build your ramps and not lose out on !Echo! count while also doing decent healing during your ramp as !Emerald Blossom! does not consume !Echo!.
+
+Our !Stasis! and our !Dreamflight! are on a choice node, however they get a new support talent called !Inner Flame!. !Inner Flame! increases your HoT healing of all spells by 60% and increases the chance of your !Living Flame! and !Reversion! to create !Essence Burst!s by 100%.  Note that this only happens on the Initial casts of these two spells. !Stasis! release does not reapply the !Inner Flame! buff.  Its a fairly solid talent, that makes !Dreamflight! do a ton more healing, and gives some pretty niche cases for !Stasis! stores.
+
+Lastly we get a new !Verdant Embrace! choice node consisting of !Dream Simulacrum! and !Wings of Liberty!. !Wings of Liberty! just gives you an additional charge of !Verdant Embrace! while !Dream Simulacrum! makes your !Verdant Embrace! hit even harder and makes it so you send a projection of yourself forward instead of moving your character to do the healing.  Both have very niche situations and lots of good testing has been done on both. Overall its a pretty solid choice node, but it can be a bit harder to justify as a capstone talent.
+
+Final Thoughts
+
+Overall I'm extremely happy with how Preservation is turning out so far. The spec tree really starts to help reimagine our gameplay and adds some more depth while also helping new player in. It's not only extremely fun to play, but also extremely satisfying and I cannot wait to play it some more! We still have some Questionable choices however, such as the center of our tree. Long time no use !Power Nexus! still struggles to find its place along with !Font of Power! now struggling for power with the removal of !Spiritbloom!. !Energy Loop! currently is doing less than it normally does, and its neighbor !Time of Need! is strong, though very hard to justify in the last section of our tree.  Few other notes !Temporal Artificer! is currently still allowing us to have 2 minute rewind which has shown to be by far the most powerful CD in the game. Talents like !Exhilarating Burst! start to see some question as a large amount of our healing in beta cannot crit.
