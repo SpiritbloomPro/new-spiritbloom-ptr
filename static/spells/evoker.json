@@ -44,7 +44,8 @@
         "Source of Magic": 369459,
         "Obsidian Scales": 363916,
         "Fury of the Aspects": 390386,
-        "Oppressing Roar": 372048
+        "Oppressing Roar": 372048,
+        "Unravel": 1264378
     },
     "class-talents": {
         "Leaping Flames": 369939,
@@ -63,7 +64,11 @@
         "Instinctive Arcana": 376164,
         "Regenerative Magic": 387787,
         "Extended Flight": 375517,
-        "Innate Magic": 375520
+        "Innate Magic": 375520,
+        "Inner Radiance": 386405,
+        "Stretch Time": 410352,
+        "Strike from Above": 1267206,
+        "Protracted Talons": 369909
     },
     "spec-talents": {
         "Exhilarating Burst": 377100,
@@ -102,6 +107,12 @@
         "Wings of Liberty": 1241704,
         "Dream Simulacrum": 1241669,
         "Timeless Magic": 376240,
+        "Twin Echoes": 1242031,
+        "Dreamflight": 359816,
+        "Empath": 376138,
+        "Inner Flame": 1242745,
+        "Power Nexus": 369908,
+        "Font of Power": 375783,
         "Merithras Blessing Reversion": 1256682,
         "Merithras Blessing Dream Breath": 1256689
     },
@@ -116,7 +127,7 @@
         "Double-time": 431874,
         "Time Convergence": 431984,
         "Instability Matrix": 431484,
-        "Afterimage": 431875,
+        "After image": 431875,
         "Engulf": 443328,
         "Trailblazer": 444849,
         "Flame Siphon": 444140,
@@ -132,7 +143,21 @@
         "Conduit of Flame": 444843,
         "Golden Oportunity": 432004,
         "Fulminous Roar": 1218447,
-        "Essence Well": 1265993
+        "Essence Well": 1265993,
+        "Golden Opportunity": 432004,
+        "Nozdormu Adept": 431715,
+        "Chronoboon": 1260484,
+        "Energy Cycles": 1260568,
+        "Overclock": 1260647,
+        "Legacy of the Lifebinder": 1264269,
+        "Ashes in Motion": 1264365,
+        "Deep Exhalation": 1264321,
+        "Twin Flame": 1265979,
+        "Fire Torrent": 1265992
     },
-    "other": {}
+    "other": {
+        "Spiritbloom": 367226,
+        "Fire Within": 375577,
+        "Red Hot": 444081
+    }
 }
