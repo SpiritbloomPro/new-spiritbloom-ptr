@@ -16,13 +16,10 @@ This is a list of all currently known bugs affecting Restoration Shaman. If you 
 | !Ancestral Swiftness!, !Acid Rain! | The damage from !Acid Rain! is not increased if the !Healing Rain! is casted via !Ancestral Swiftness! |
 | !Downpour! | !Downpour! will consume !Ancestral Swiftness!, other instant cast spells like !Riptide! don't consume !Ancestral Swiftness! |
 | !Downpour! | !Downpour! has weird interactions with the Cooldown Manager. As Farseer the !Healing Rain! tracker won't show up while you still have !Downpour! available, and as Totemic !Downpour! makes the !Surging Totem! tracker not work at all |
-| !Flame Shock!, !Lava Surge! | The proc rate of !Lava Surge! does not increase by having !Flame Shock! active on more targets |
 
 ## Talents
 
 | Talent | Bug |
 | --- | --- |
+| !Coalescing Water!, !Ascendance! | During !Ascendance! your !Healing Wave!s will generate stacks of !Coalescing Water! but the buff will immediately disappear and the free !Riptide! won't be increased by it |
 | !Spouting Spirits!, !Lively Totems! | !Spouting Spirits! will cause !Lively Totems! to fire !Chain Heal! on both the initial placement of !Spirit Link Totem! and the heal from !Spouting Spirits! |
-| !Earthliving Weapon! | The !Earthliving Weapon! buff sometimes can't be refreshed |
-| !Quickstream! | !Healing Stream Totem! does not heal more often |
-| !Crashing Waves! | The critical strike chance of !Healing Wave! is not increased |
