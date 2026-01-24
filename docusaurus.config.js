@@ -190,7 +190,12 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-    scripts: []
+    scripts: [
+      {
+        src: '/js/clarity.js',
+        async: false
+      }
+    ]
 };
 
 export default config;
