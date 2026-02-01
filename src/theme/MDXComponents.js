@@ -4,6 +4,7 @@ import WowheadLink from '@site/src/components/WowheadLink';
 import VideoClip from '@site/src/components/VideoClip';
 import WowheadTalents from '@site/src/components/WowheadTalents';
 import Youtube from '@site/src/components/YoutubeVideo';
+import Copy from '@site/src/components/CopyContent';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import Image from './Image';
@@ -14,6 +15,7 @@ export default {
     Tabs,
     TabItem,
     img: Image,
+    Copy,
     WowheadLink,
     WowheadTalents,
     VideoClip,
