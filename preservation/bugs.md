@@ -17,4 +17,5 @@ This is a list of all currently known bugs affecting Preservation. If you find a
 | Talent | Bug |
 | --- | --- |
 | !Energy Loop! | !Energy Loop! gives a significantly lower amount of mana proportionally on beta vs live despite being no patch notes. |
-| Environmental Damage | Some dungeon bosses, such as Luura, do mostly Environmental Damage to the group. !Golden Hour! and !Rewind! do not get this damage calculated into their healing, making them ineffective on bosses like this. |
+| Environmental Damage | Some dungeon bosses, such as Luura, do mostly Environmental Damage to the group. !Golden Hour! and !Rewind! do not get this damage calculated into their healing, making them ineffective on bosses like this.|
+| !Dream Simulacrum! | When talented into !Dream Simulacrum!, while rooted you are unable to cast !Verdant Embrace!.|
