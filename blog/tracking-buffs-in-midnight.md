@@ -16,7 +16,13 @@ By now i have already made some waves due to my last attempt at solving this iss
 This method depends on filters that come from Blizzard, the specific auras that the filter allows dictate how complicated it is to track a specific thing. For some specs it is just outright impossible as the filters might have too much stuff that is just very hard to parse. This also means at any point Blizzard might change some of the filters, and that can make it easier, harder, or impossible to track things.
 :::
 
-<VideoClip url="https://i.imgur.com/ErNx1qV.mp4" />
+<VideoClip url="https://i.imgur.com/ceeI4BJ.mp4" />
+
+If you want to try the tracking for yourself get [Harrek's Advanced Raid Frames](https://www.curseforge.com/wow/addons/harreks-advanced-raid-frames) on Curse. If you want to support my work on this and any other thing i do here is [my Patreon page](https://www.patreon.com/harrek). And thank you very much for spending time reading me!
+
+:::info
+Feb 11 Update: Since the first version of this post i have changed several details of the tracking methods and fixed a ton of bugs. I have also started to implement support for other frame addons as well. Things are still evolving constantly but for the time being i can say Mistweaver tracking is not possible to do, but Druid potentially might be. Augmentation Prescience tracking is also coming soon in some form and Holy Paladin and Holy Priest haven't been explored yet at all.
+:::
 
 ## Establishing Baselines
 
@@ -117,6 +123,10 @@ end
 
 To note, this might fail on different languages were the localized name of Atonement would put it behind one of the shields or Pain Suppression.
 
+:::info
+When i originally designed the method i didn't knew Discipline had access to Prayer of Mending. I plan to change the tracking and go in a different way that might let it be way more effective and also work around the jumping Power Word Shields issue.
+:::
+
 ## The Preservation Evoker Method
 
 So then we get to something even harder, we are going to track !Echo!. Same first step as before we look at the filter aaaaand:
@@ -139,6 +149,10 @@ For the live game, we already have the simple `RAID` filter, which for Preservat
 - Zephyr
 
 That is a *weird* filter, but it works much better for what we want which is auras that work very differently from what we want to track as much as possible. For this our only relevant assumption is that everything on the list besides Echo can only be on a unit after the player casts a specific spell. We try to detect these buffs the same way we did Pain Suppression, matching `auraInstanceIDs` applied at the exact same time the player did the cast and saving them on a list.
+
+:::info
+Hey turns out i was completely wrong, the `RAID_IN_COMBAT` filter still ended up being a more effective method so i am currently using that one
+:::
 
 Zephyr presents a bigger challenge, because when cast it applies to four allies around you but your movement might cause it to jump to different players as people get closer and further away. What are we going to do for this? absolutely nothing, we will just live with a couple of false positives for the 8 seconds Zephyr is active every 2 minutes and be happy with it because it is still much better !Echo! tracking than what we had before
 
