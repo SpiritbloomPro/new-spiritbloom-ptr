@@ -6,3 +6,5 @@ sidebar_position: 2
 ---
 
 # Introduction
+
+Welcome to the Season 1 Midnight guide for Preservation Evoker. Preservation Evoker underwent a large amount of pruning coming into Midnight which you can read about here [Evoker | Midnight, What Has Changed?](https://spiritbloom.pro/preservation/midnight-what-has-changed).   That being said, our gameplay still has its fair amount of decision making and the ramp-like burst style that we are accustomed to. We will start to incorporate more spells such as !Emerald Blossoms! into our toolkit along with much more !Reversion! due to !Merithra's Blessing!. So, lets start!
