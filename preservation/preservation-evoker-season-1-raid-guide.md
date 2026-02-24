@@ -23,4 +23,4 @@ For what was gained, all talents that affect !Spiritbloom! now affect !Dream Bre
 
 To really understand how we play, we have to talk about our apex !Merithra's Blessing! and all that it does.
 
-Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast as well. This affect is completely Echoable as well!
+Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast. This affect is completely Echoable as well!
