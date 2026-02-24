@@ -11,12 +11,16 @@ Welcome to the Season 1 Midnight guide for Preservation Evoker. Preservation Evo
 
 # Brief summary of changes and what is new!
 
-Before we start talking about how we play, we first need to briefly talk about what was lost and what we gained coming into season one. 
+Before we start talking about how we play, we first need to briefly talk about what was lost and what we gained coming into season one.
 
 To start with what was lost, !Spiritbloom! and !Engulf! have both been removed. !Lifebind! has been buffed, but it no longer can be !Echo'd!. !Emerald Communion! has been moved to a pvp talent, and Lastly !Stasis! and !Dream Flight! are on a choice node.
 
+Noteable reworks are as follows: !Consume Flame! no longer is an AoE raidwide heal, but rather is a small heal triggered by !Verdant Embrace! and !Emerald Blossom! on those with !Dream Breath!. !Call of Ysera! has been decoupled from !Verdant Embrace! and is now completely passive with a small nerf. !Renewing Blaze! is now attached to your !Obsidian Scales!. Lastly, !Tempo Charged! is now a generic bronze spell buff.
+
 For what was gained, all talents that affect !Spiritbloom! now affect !Dream Breath! instead. !Emerald Blossom! saw massive healing buffs along with removing the RNG element of !Field of Dreams!. !Emerald Blossom! also saw a new core mechanic added with !Twin Echoes!. !Verdant Embrace! had its healing increased and a new choice node to support it with !Wings of Liberty! vs !Dream Simulacrum!.  Our Tierset and our Apex talent !Merithra's Blessing! we will talk about next. We had many other changes as well, but most arent as impactful as the ones listed here!
 
-Our Apex, !Merithra's Blessing!
+# Our Apex, !Merithra's Blessing!
 
 To really understand how we play, we have to talk about our apex !Merithra's Blessing! and all that it does.
+
+Point 1 gives us access to !Merithra's Blessing!, giving us a 20% chance on every cast of !Echo!, !Emerald Blossom!, or !Disintegrate! to override our reversion with !Merithra's Blessing!. !Merithra's Blessing! heals the ally, and then shoots 4 bolts from them to other nearby allies, along with acting like a normal reversion cast as well. This affect is completely Echoable as well!
