@@ -1,7 +1,7 @@
 ---
 title: Preservation Evoker Season 1 M+ Guide
 description: M+
-unlisted: true
+unlisted: false
 sidebar_position: 1
 ---
 
