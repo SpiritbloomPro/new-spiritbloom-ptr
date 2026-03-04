@@ -27,15 +27,21 @@ jobs:
         run: |
           git remote add upstream ${{ env.UPSTREAM_REPO }}
           git fetch upstream ${{ env.UPSTREAM_BRANCH }}
-          LOCAL=$(git rev-parse HEAD)
           UPSTREAM=$(git rev-parse upstream/${{ env.UPSTREAM_BRANCH }})
-          echo "Current HEAD: $LOCAL"
           echo "Upstream dev: $UPSTREAM"
-          if [ "$LOCAL" = "$UPSTREAM" ]; then
-            echo "No updates found, skipping deployment"
-            echo "has_updates=false" >> $GITHUB_OUTPUT
+          if git ls-remote --exit-code origin ${{ env.UPSTREAM_BRANCH }} >/dev/null 2>&1; then
+            git fetch origin ${{ env.UPSTREAM_BRANCH }}
+            LOCAL=$(git rev-parse origin/${{ env.UPSTREAM_BRANCH }})
+            echo "origin/dev: $LOCAL"
+            if [ "$LOCAL" = "$UPSTREAM" ]; then
+              echo "No updates found, skipping deployment"
+              echo "has_updates=false" >> $GITHUB_OUTPUT
+            else
+              echo "Updates found, will sync and deploy"
+              echo "has_updates=true" >> $GITHUB_OUTPUT
+            fi
           else
-            echo "Updates found, will sync and deploy"
+            echo "origin/dev does not exist, will create it"
             echo "has_updates=true" >> $GITHUB_OUTPUT
           fi
 
@@ -57,9 +63,21 @@ jobs:
           git fetch upstream ${{ env.UPSTREAM_BRANCH }}
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # This PTR fork is intended to mirror upstream dev exactly, so force-push is deliberate.
-          git reset --hard upstream/${{ env.UPSTREAM_BRANCH }}
-          git push origin main --force
+          if git ls-remote --exit-code origin ${{ env.UPSTREAM_BRANCH }} >/dev/null 2>&1; then
+            git fetch origin ${{ env.UPSTREAM_BRANCH }}
+            if git merge-base --is-ancestor origin/${{ env.UPSTREAM_BRANCH }} upstream/${{ env.UPSTREAM_BRANCH }}; then
+              echo "Fast-forward is possible, updating origin/dev"
+              git checkout -B ${{ env.UPSTREAM_BRANCH }} upstream/${{ env.UPSTREAM_BRANCH }}
+              git push origin ${{ env.UPSTREAM_BRANCH }}
+            else
+              echo "ERROR: origin/dev is not an ancestor of upstream/dev. Manual intervention required."
+              exit 1
+            fi
+          else
+            echo "origin/dev does not exist, creating it from upstream/dev"
+            git checkout -B ${{ env.UPSTREAM_BRANCH }} upstream/${{ env.UPSTREAM_BRANCH }}
+            git push origin ${{ env.UPSTREAM_BRANCH }}
+          fi
 
       - uses: actions/setup-node@v4
         with:
