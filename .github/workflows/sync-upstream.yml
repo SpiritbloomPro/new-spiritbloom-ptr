@@ -1,0 +1,93 @@
+name: Sync from Upstream and Deploy
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:      # Allow manual trigger
+
+env:
+  UPSTREAM_REPO: https://github.com/SpiritbloomPro/new-spiritbloom.git
+  UPSTREAM_BRANCH: dev
+
+jobs:
+  sync-check:
+    name: Check for Upstream Updates
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      has_updates: ${{ steps.check.outputs.has_updates }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for upstream updates
+        id: check
+        run: |
+          git remote add upstream ${{ env.UPSTREAM_REPO }}
+          git fetch upstream ${{ env.UPSTREAM_BRANCH }}
+          LOCAL=$(git rev-parse HEAD)
+          UPSTREAM=$(git rev-parse upstream/${{ env.UPSTREAM_BRANCH }})
+          echo "Current HEAD: $LOCAL"
+          echo "Upstream dev: $UPSTREAM"
+          if [ "$LOCAL" = "$UPSTREAM" ]; then
+            echo "No updates found, skipping deployment"
+            echo "has_updates=false" >> $GITHUB_OUTPUT
+          else
+            echo "Updates found, will sync and deploy"
+            echo "has_updates=true" >> $GITHUB_OUTPUT
+          fi
+
+  build:
+    name: Build Docusaurus
+    needs: sync-check
+    if: needs.sync-check.outputs.has_updates == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync with upstream dev
+        run: |
+          git remote add upstream ${{ env.UPSTREAM_REPO }}
+          git fetch upstream ${{ env.UPSTREAM_BRANCH }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # This PTR fork is intended to mirror upstream dev exactly, so force-push is deliberate.
+          git reset --hard upstream/${{ env.UPSTREAM_BRANCH }}
+          git push origin main --force
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build website
+        run: npm run build
+
+      - name: Upload Build Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
