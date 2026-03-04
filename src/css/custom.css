@@ -197,6 +197,16 @@ button:hover {
     border-color: var(--ifm-color-primary);
 }
 
+.header-tabs {
+    justify-content: space-around;
+}
+
+.header-tabs > li {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
 /*Home Page*/
 
 .hero__title,
