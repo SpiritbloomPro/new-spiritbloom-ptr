@@ -44,7 +44,8 @@
         "Spirit Wolf": 260878,
         "Thunderous Paws": 378075,
         "Poison Cleansing Totem": 383013,
-        "Tremor Totem": 8143
+        "Tremor Totem": 8143,
+        "Purge": 370
     },
     "spec-talents": {
         "Water Totem Mastery": 382030,
@@ -67,12 +68,16 @@
         "Earthen Accord": 1271104,
         "Overflowing Shores": 383222,
         "Crashing Waves": 1253090,
+        "Resurgence": 16196,
         "Coalescing Water": 470076,
         "Water Expulsion": 1253014,
         "Double Dip": 1252882,
         "Ancestral Awakening": 382309,
         "Calm Waters": 1252841,
         "Undercurrent": 382194,
+        "Earthweaver": 1254210,
+        "Preeminence": 462443,
+        "Earthen Harmony": 382020,
         "Stormstream Totem Proc": 1267016,
         "Stormstream Totem Healing Increase": 1267093,
         "Stormstream Totem Swiftness": 1267120

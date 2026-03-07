@@ -9,6 +9,7 @@ The core of Restoration Shaman is a mix of short cooldowns and choosing between 
 You have a big utility kit that can cover a wide range of situations which means it is likely some of your time is also spent on interrupts, dispells, purges and crowd control. None of the tools at your disposal are complicated or hard to use but you have a lot of them and need to prioritize what to press correctly.
 
 ## Healing Wave and Chain Heal
+<VideoClip url='https://i.imgur.com/FE9J2xC.mp4' side='right' />
 
 One of the most important parts of the spec is how !Healing Wave! and !Chain Heal! compete with each other. As of Midnight these are your two only options to do healing outside of cooldowns and you will constantly have to pick between them. The actual balance is a bit tricky and the best spell varies depending on a lot of factors so you should expect to cast a good mix of both during normal gameplay. For a quick comparison:
 
@@ -34,11 +35,11 @@ The one thing that you really don't want to do in regards to !Riptide! is sit on
 
 ## Healing Totems
 
-<VideoClip url='https://i.imgur.com/dHqGGLy.mp4' side='left' />
+<VideoClip url='https://i.imgur.com/c6vphr0.mp4' side='left' />
 
 Another important part of the spec is your rotational healing totems and for Midnight the only two relevant ones are !Healing Stream Totem! and !Stormstream Totem!. !Healing Stream Totem! is a very simple fire and forget healing over time effect, it is not super strong by itself but still good enough to justify keeping it on cooldown. It is much stronger for Totemic where using it also casts a !Chain Heal!, it hits multiple targets every time and can also apply !Earthliving Weapon! but even for Farseer you will still use it very often.
 
-As for !Stormstream Totem! because it is our apex talent the power it has is much higher and is a very important part of your gameplay. You will get guaranteed procs of Stormstream every time you use !Natures Swiftness! or !Ancestral Swiftness! which means Farseer will get twice as many as Totemic, but Totemic's are slightly stronger due to inheriting bonuses from !Healing Stream totem!. You also have a 6% chance of getting one on every !Riptide! cast.
+As for !Stormstream Totem! because it is our apex talent the power it has is much higher and is a very important part of your gameplay. You will get guaranteed procs of Stormstream every time you use !Natures Swiftness! or !Ancestral Swiftness! which means Farseer will get twice as many as Totemic, but Totemic's are slightly stronger due to inheriting bonuses from !Healing Stream Totem!. You also have a 6% chance of getting one on every !Riptide! cast.
 
 Stormstream procs last for 60 seconds and stack up to two so you aren't in a rush to spend them and can sit on them while waiting for the correct moment to use them. Farseer is particularly good at this as it can force several procs in less time and also loses less by not casting !Healing Stream Totem! to save them.
 
@@ -48,9 +49,11 @@ Use your procs smartly, plan ahead your usages from Swiftness, and don't waste t
 
 Newly reworked for Midnight, !Ascendance! is a very strong but very particular cooldown. To note in its current iteration !Ascendance! only affects your !Healing Wave! and !Chain Heal! which means all your other spells do the exact same healing regardless of it being up (without considering !Preeminence!). As for !Healing Wave! the effect is very strong but also incredibly annoying in that having guaranteed critical strikes on a spell means all the critical strike you have from your gear or external effects does absolutely nothing and is simply wasted while you cast the spell. !Chain Heal! gets a more straight forward bonus that simply lets it do more healing but it also has some rough edges in that targets can't get healed by multiple jumps of the same cast which means on dungeons you will simply waste several of the jumps from the !Ascendance! bonus.
 
+<VideoClip url='https://i.imgur.com/gWmqGB2.mp4' side='right' />
+
 The real winner ends up being !Healing Wave!, because the second heal at half strength still counts as a cast of the spell it procs it's own !Resurgence! and does so every time as both of them are guaranteed critical strikes. The end result is that !Healing Wave! heals for a very high amount on two targets and restores more mana than what it costs to cast so you can press it as many times as possible without having to worry about cost and doing a very high amount of healing.
 
-!Chain Heal! does not actually do more healing than !Healing Wave! during !Ascendance!. The spell does become much better at spreading healing across a raid and picking the targets that need it the most but in regards to raw numbers it is still behind and the only way for it to catch up is if your !Healing Wave!s are doing a lot of overhealing or if you have lots of critical strike on your gear which benefit !Chain Heal! but not !Healing Wave1. Even still this situation doesn't take into account that !Chain Heal! is still a very expensive cast while !Healing Wave! becomes *literally free*.
+!Chain Heal! does not actually do more healing than !Healing Wave! during !Ascendance!. The spell does become much better at spreading healing across a raid and picking the targets that need it the most but in regards to raw numbers it is still behind and the only way for it to catch up is if your !Healing Wave!s are doing a lot of overhealing or if you have lots of critical strike on your gear which benefit !Chain Heal! but not !Healing Wave!. Even still this situation doesn't take into account that !Chain Heal! is still a very expensive cast while !Healing Wave! becomes *literally free*.
 
 Simply put, don't over think it, if you are in !Ascendance! you want to cast !Healing Wave! as many times as possible.
 

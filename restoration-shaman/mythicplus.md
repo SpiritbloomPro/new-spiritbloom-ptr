@@ -4,7 +4,7 @@ description: How to Play Restoration Shaman in Mythic+
 title: Mythic+
 ---
 
-Quick intro on how rsham plays in keys
+Text goes here
 
 ## Where Does Your Healing Come From
 

@@ -38,9 +38,9 @@ toc_max_heading_level: 2
                 6. Use !Healing Wave! repeatedly while !Ascendance! is active
             </TabItem>
             <TabItem value='Stats'>
-                **All stats are good for Restoration Shaman** and your goal should be getting higher item level pieces to get the most amount of stats in general rather than focusing on any one specific piece. For deciding between pieces of the same level you can use this rough priority as a tie-breaker:
-                1. Haste = Critical Strike
-                2. Versatility = Mastery
+                **All stats are good for Restoration Shaman** and your goal should be getting higher item level pieces to get the most amount of stats in general rather than focusing on any one specific piece. For deciding between pieces of the same level you can use Critical Strike as a tie-breaker:
+                1. Critical Strike
+                2. Haste = Versatility = Mastery
             </TabItem>
         </Tabs>
         For more details on how to optimize your gameplay for raids, check the [raids page of the guide](/restoration-shaman/raid.md).
@@ -55,6 +55,8 @@ toc_max_heading_level: 2
                 - !Thunderous Paws! is an option if you need to clear snares, !Spirit Wolf! is generally stronger as a defensive.
                 ### Spec Tree
                 - !Ancestral Reach! and !Flow of the Tides! are both good but !Flow of the Tides! will result in higher healing if you properly play around it.
+                - !Healing Rain! is a bit clunky to use in M+ and you don't get as much value out of it with less targets. You can still play it if you really want but it shouldn't be a notable gain
+                - !Earthweaver! and !Earthen Harmony! gain value in keys where keeping specific targets alive is important, but if you don't feel like you are using the extra single-target healing you can move these points somewhere else.
             </TabItem>
             <TabItem value='Rotation'>
                 ### Normal Gameplay
@@ -73,9 +75,9 @@ toc_max_heading_level: 2
                 6. Use !Healing Wave! repeatedly while !Ascendance! is active
             </TabItem>
             <TabItem value='Stats'>
-                **All stats are good for Restoration Shaman** and your goal should be getting higher item level pieces to get the most amount of stats in general rather than focusing on any one specific piece. For deciding between pieces of the same level you can use this rough priority as a tie-breaker:
-                1. Haste = Critical Strike
-                2. Versatility = Mastery
+                **All stats are good for Restoration Shaman** and your goal should be getting higher item level pieces to get the most amount of stats in general rather than focusing on any one specific piece. For deciding between pieces of the same level you can use Critical Strike as a tie-breaker:
+                1. Critical Strike
+                2. Haste = Versatility = Mastery
             </TabItem>
         </Tabs>
         For more details on how to optimize your gameplay in keys, check the [mythic+ page of the guide](/restoration-shaman/mythicplus.md).
