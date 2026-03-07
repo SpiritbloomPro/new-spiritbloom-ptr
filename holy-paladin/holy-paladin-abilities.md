@@ -82,7 +82,7 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 ##### Passive abilities
 
-!Eternal flame! - Replaces your !Word of Glory! with Eternal Flame, causing it to leave a heal over time effect on your target.
+!Eternal Flame! - Replaces your !Word of Glory! with Eternal Flame, causing it to leave a heal over time effect on your target.
 
 !Luminosity! - 3% increased critical strike change to Holy Shock and Light of Dawn.
 
@@ -94,7 +94,7 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 !Aurora! - when you use your !Holy Prism! or !Divine Toll! you also get !Divine Purpose! letting you cast one spender free of charge.
 
-!Walk into Light! - you gain 2 holy power when you cast Avenging Wrath or Avenging Crusader
+!Walk Into Light! - you gain 2 holy power when you cast Avenging Wrath or Avenging Crusader
 
 !Born in Sunlight! - 15% extra critical strike chance to Dawnlight during Avenging Wrath.
 
@@ -117,3 +117,7 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 !Empyreal Ward! - !Lay on Hands! grants a decent armor buff for 8 seconds and ignores any healing reduction effects.
 
 !Fist of Justice! - cooldown reduction for !Hammer of Justice!
+
+!Blinding Light! - Area of effect crowd control ability that causes targets to wander disoriented for 6 seconds. Cancels on damage, great for a small interrupt. 
+
+!Turn Evil! - single target crowd control that causes any undead, aberration or demon to flee for up to 40 seconds.
