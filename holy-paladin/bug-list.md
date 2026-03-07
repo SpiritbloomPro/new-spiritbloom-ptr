@@ -2,8 +2,9 @@
 title: Bug list
 description: Bug list for holy paladin updated 1st. December 2025
 unlisted: false
-sidebar_position: 2
+sidebar_position: 20
 ---
+
 - !Divine Toll!
 
 Built-in mouseover does not work, it will cast on the targeted enemy regardless of whether you're hovering someone else.
