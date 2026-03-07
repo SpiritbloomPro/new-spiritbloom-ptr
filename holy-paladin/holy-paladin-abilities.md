@@ -103,4 +103,10 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 - Row 1
 
-!Lay on Hands! - very large cooldown that heals the target for 100% of your health. Your biggest "oh heck" button.
+!Lay on Hands! - very large cooldown that heals the target for 100% of your health. Your biggest "oh heck" button. - Can not be talented out of. 
+
+!Auras of the Resolute! - teaches you !Concentration Aura!, !Devotion Aura! and !Crusader Aura! as mentioned above. - can not be talented out of. 
+
+!Hammer of Wrath! - turns your !Judgment! into Hammer of Wrath while you have !Avenging Wrath! active.
+
+- Row 2
