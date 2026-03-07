@@ -38,6 +38,7 @@ Beacons count as you for the purpose of this mastery if you choose to use the ta
 - !Redemption! - Single target resurrect ability, requires you to be out of combat and have clear line of sight to target.
 - !Absolution! - AoE group resurrect ability, requires everyone to be out of combat.  Resurrects everyone within 100 yard radius regardless of line of sight or obstruction.
 - !Intercession! - Your standard single-target combat resurrection ability. You have one, you should definitely use it when called for.
+- !Cleanse! - Magic dispel
 
 ### Defensive cooldowns
 
@@ -103,10 +104,16 @@ If you use your spender on cooldown, every 30 seconds, you will expect a 30% hea
 
 - Row 1
 
-!Lay on Hands! - very large cooldown that heals the target for 100% of your health. Your biggest "oh heck" button. - Can not be talented out of. 
+!Lay on Hands! - very large cooldown that heals the target for 100% of your health. Your biggest "oh heck" button. - Can not be talented out of.
 
-!Auras of the Resolute! - teaches you !Concentration Aura!, !Devotion Aura! and !Crusader Aura! as mentioned above. - can not be talented out of. 
+!Auras of the Resolute! - teaches you !Concentration Aura!, !Devotion Aura! and !Crusader Aura! as mentioned above. - can not be talented out of.
 
 !Hammer of Wrath! - turns your !Judgment! into Hammer of Wrath while you have !Avenging Wrath! active.
 
 - Row 2
+
+!Improved Cleanse! - your !Cleanse! now also removes Disease and Poison.
+
+!Empyreal Ward! - !Lay on Hands! grants a decent armor buff for 8 seconds and ignores any healing reduction effects.
+
+!Fist of Justice! - cooldown reduction for !Hammer of Justice!
