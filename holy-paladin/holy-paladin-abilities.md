@@ -2,7 +2,7 @@
 title: Holy paladin abilities
 description: Here we will go through all the talents and abilities of the holy paladin in-depth.
 unlisted: false
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Baseline abilities
