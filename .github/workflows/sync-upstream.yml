@@ -93,11 +93,22 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          BUILD_OUTPUT=$(cat /tmp/build-output.txt)
-          # Discord content limit is 2000 characters; keep last 1900 chars and strip any
-          # invalid UTF-8 bytes that could break JSON encoding
-          TRUNCATED=$(echo "$BUILD_OUTPUT" | tail -c 1900 | iconv -c -t UTF-8)
-          MESSAGE=$(printf '%s' "$TRUNCATED" | jq -Rs '.')
+          # Extract the human-readable cause message: text between "[cause]:" and the
+          # first stack-trace line (a line containing "    at "), stripping the prefix.
+          CAUSE=$(awk '
+            /\[cause\]:/ { found=1; sub(/.*\[cause\]: /, ""); print; next }
+            found && /^[[:space:]]+at / { exit }
+            found { print }
+          ' /tmp/build-output.txt | iconv -c -t UTF-8)
+
+          if [ -z "$CAUSE" ]; then
+            # Fall back if no cause block found (e.g. non-Docusaurus errors)
+            CAUSE=$(tail -c 1900 /tmp/build-output.txt | iconv -c -t UTF-8)
+          else
+            # Discord content limit is 2000 characters; trim extracted cause
+            CAUSE=$(printf '%s' "$CAUSE" | head -c 1900)
+          fi
+          MESSAGE=$(printf '%s' "$CAUSE" | jq -Rs '.')
           curl -sf -H "Content-Type: application/json" \
             -d "{\"content\": $MESSAGE}" \
             "$DISCORD_WEBHOOK_URL" || echo "Warning: failed to send Discord notification"
