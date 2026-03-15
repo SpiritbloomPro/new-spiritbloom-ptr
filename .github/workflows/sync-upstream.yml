@@ -83,7 +83,24 @@ jobs:
         run: npm ci
 
       - name: Build website
-        run: npm run build
+        id: build_website
+        shell: bash
+        run: npm run build 2>&1 | tee /tmp/build-output.txt; exit ${PIPESTATUS[0]}
+
+      - name: Notify Discord on build failure
+        if: failure() && steps.build_website.outcome == 'failure'
+        shell: bash
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          BUILD_OUTPUT=$(cat /tmp/build-output.txt)
+          # Discord content limit is 2000 characters; keep last 1900 chars and strip any
+          # invalid UTF-8 bytes that could break JSON encoding
+          TRUNCATED=$(echo "$BUILD_OUTPUT" | tail -c 1900 | iconv -c -t UTF-8)
+          MESSAGE=$(printf '%s' "$TRUNCATED" | jq -Rs '.')
+          curl -sf -H "Content-Type: application/json" \
+            -d "{\"content\": $MESSAGE}" \
+            "$DISCORD_WEBHOOK_URL" || echo "Warning: failed to send Discord notification"
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
